@@ -40,7 +40,7 @@ conda activate structeqtable
 # Install from Source code  (Suggested)
 git clone https://github.com/UniModal4Reasoning/StructEqTable-Deploy.git
 cd StructEqTable-Deploy
-python setup develop
+python setup.py develop
 
 # or Install from Github repo
 pip install "git+https://github.com/UniModal4Reasoning/StructEqTable-Deploy.git"
